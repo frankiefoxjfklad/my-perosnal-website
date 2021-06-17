@@ -12,6 +12,15 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+```c
+#include <stdio.h>
+
+int main(void) {
+
+  return 0;
+}
+```
+
 Here I will show you how to create a blog post with the Wowchemy CMS.
 
 # Heading 1
@@ -46,3 +55,5 @@ My favourite gelato flavours
 * Coconut and lychee
 
 [External link](https://www.google.com)
+
+Inline `code snippet`
