@@ -57,3 +57,8 @@ My favourite gelato flavours
 [External link](https://www.google.com)
 
 Inline `code snippet`
+
+## LaTeX
+Quadratic formula $ax^2 + bx + c = 0$
+
+$$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
