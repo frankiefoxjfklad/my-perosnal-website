@@ -2,11 +2,11 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Lab Assistant
+    company: UNSW
     company_url: ""
-    company_logo: org-gc
-    location: California
+    company_logo: unsw
+    location: Sydney
     date_start: 2021-01-01
     date_end: ""
     description: |-2
