@@ -21,6 +21,8 @@ int main(void) {
 }
 ```
 
+![](argentina.jpg)
+
 Here I will show you how to create a blog post with the Wowchemy CMS.
 
 # Heading 1
@@ -59,6 +61,9 @@ My favourite gelato flavours
 Inline `code snippet`
 
 ## LaTeX
+
 Quadratic formula $ax^2 + bx + c = 0$
 
 $$x = \frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+
+fdsa
